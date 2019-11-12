@@ -1,1 +1,1 @@
-# epithelial
+# epithelialIn this work, the aim is to create a Python version of the epithelial model (proximal convoluted tubule).The current epithelial model involves determination of 30 unknown, which includes solute concentrations, electrical potential and hydrostatic pressure.
